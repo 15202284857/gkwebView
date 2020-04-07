@@ -1,0 +1,6 @@
+framework module gkwebview {
+  umbrella header "gkwebview-umbrella.h"
+
+  export *
+  module * { export * }
+}

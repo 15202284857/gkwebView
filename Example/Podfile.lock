@@ -1,0 +1,16 @@
+PODS:
+  - gkwebview (0.1.0)
+
+DEPENDENCIES:
+  - gkwebview (from `../`)
+
+EXTERNAL SOURCES:
+  gkwebview:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  gkwebview: 6b7dcbb3c522b51615f25c533b306d9fd7087650
+
+PODFILE CHECKSUM: 7e145bed058953c7c292519dd7e868ef496deef6
+
+COCOAPODS: 1.9.1

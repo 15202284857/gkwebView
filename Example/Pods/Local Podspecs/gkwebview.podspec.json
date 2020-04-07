@@ -1,0 +1,22 @@
+{
+  "name": "gkwebview",
+  "version": "0.1.0",
+  "summary": "A short description of gkwebview.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/叶情宇/gkwebview",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "叶情宇": "767770895@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/叶情宇/gkwebview.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "gkwebview/Classes/**/*"
+}
